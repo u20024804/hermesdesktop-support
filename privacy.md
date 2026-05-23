@@ -33,5 +33,5 @@ Do not share API keys, Telegram bot tokens, passwords, or other secrets in publi
 
 For privacy questions or support, contact:
 
-- Email: u20024804@gmail.com
+- Email: privacy@clawapp.work
 - GitHub Issues: https://github.com/u20024804/hermesdesktop-support/issues
