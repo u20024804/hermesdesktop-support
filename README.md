@@ -6,7 +6,7 @@ HermesDesktop is a native macOS app for running a local Hermes AI workspace.
 
 For app support, bug reports, privacy questions, or feature requests, contact:
 
-- Email: u20024804@gmail.com
+- Email: support@clawapp.work
 - GitHub Issues: https://github.com/u20024804/hermesdesktop-support/issues
 
 Please include your macOS version, HermesDesktop app version, and a short description of the issue. Do not include API keys, Telegram bot tokens, passwords, or other secrets in public issues.
